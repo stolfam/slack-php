@@ -1,8 +1,8 @@
 {
-  "name": "ataccama/slack-php",
+  "name": "stolfam/slack-php",
   "license": "MIT",
   "description": "Easy-to-use PHP classes for Slack integration",
-  "version": "4.0.0",
+  "version": "5.0.1",
   "type": "library",
   "require": {
     "php": ">= 8.0.0",
