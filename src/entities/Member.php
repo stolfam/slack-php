@@ -3,8 +3,8 @@
 
     namespace Ataccama\Slack\Env;
 
-    use Ataccama\Common\Env\IdentifiedByString;
     use Ataccama\Common\Env\Name;
+    use Ataccama\Common\Traits\IdentifiedByString;
 
 
     /**

@@ -1,14 +1,14 @@
 {
-  "name": "stolfam/slack-php",
+  "name": "ataccama/slack-php",
   "license": "MIT",
   "description": "Easy-to-use PHP classes for Slack integration",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "type": "library",
   "require": {
-    "php": ">= 8.0.0",
+    "php": ">= 8.2",
     "nette/utils": ">= 3.0",
-    "php-curl-class/php-curl-class": "^8.6",
-    "ataccama/utils-php": "^4.0",
+    "php-curl-class/php-curl-class": ">=9.0",
+    "stolfam/utils-php8": "^5.0",
     "tracy/tracy": "^2.6"
   },
   "require-dev": {
@@ -21,7 +21,7 @@
   "minimum-stability": "stable",
   "config": {
     "platform": {
-      "php": "8.0"
+      "php": "8.2"
     }
   }
 }
