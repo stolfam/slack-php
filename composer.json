@@ -1,5 +1,5 @@
 {
-  "name": "ataccama/slack-php",
+  "name": "stolfam/slack-php",
   "license": "MIT",
   "description": "Easy-to-use PHP classes for Slack integration",
   "version": "5.0.2",
